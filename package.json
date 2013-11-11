@@ -1,0 +1,30 @@
+{
+  "name": "inpatience",
+  "version": "1.0.0",
+  "description": "Timebox processes in case they hang",
+  "main": "index.js",
+  "dependencies": {
+    "nopt": "~2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AWinterman/inpatience.git"
+  },
+  "keywords": [
+    "timebox",
+    "hang",
+    "process",
+    "stop",
+    "wait"
+  ],
+  "author": "Andrew Winterman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AWinterman/inpatience/issues"
+  },
+  "homepage": "https://github.com/AWinterman/inpatience"
+}
