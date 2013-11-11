@@ -1,6 +1,6 @@
 {
   "name": "inpatience",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Timebox processes in case they hang",
   "main": "index.js",
   "dependencies": {
